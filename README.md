@@ -1,1 +1,1 @@
-# UCI-Online-Retail
+In this project, I analyzed ~500K online retail transactions to uncover customer behavior, revenue trends, and product performance. I performed data cleaning, customer segmentation, RFM analysis, cohort analysis, and built an interactive Power BI dashboard to support business decision-making.
